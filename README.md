@@ -5,7 +5,7 @@ Simple Linear Regression Using Gradient Descent Algorithm
 1) Numpy
 2) Matlplotlib
 3) Pandas
-The dependencies can be installed using pip
+ The dependencies can be installed using pip
 
 
 
