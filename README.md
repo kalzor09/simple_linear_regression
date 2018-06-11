@@ -1,7 +1,7 @@
 # simple_linear_regression
 Simple Linear Regression Using Gradient Descent Algorithm 
 
-#Dependencies
+# Dependencies
 1)Numpy
 2)Matlplotlib
 3)Pandas
