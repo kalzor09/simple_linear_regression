@@ -63,7 +63,7 @@ y_predict = predict(final_m,final_c,x_test,y_test)
 print("Y-Test  Y-Prediction")
 for i in range(len(x_test)):
     print(str(y_test[i])+"  "+str(y_predict[i]))
-print("MSE on test dataset:"+str(costfunction(final_m,final_c,x_test,y_test)))
+print("MSE on train dataset:"+str(costfunction(0,0,x_train,y_train)))
 
 #plots the Line using final_c & final_m
 
